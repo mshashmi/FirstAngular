@@ -66,7 +66,8 @@ export class  GraphOrgTreeComponent implements OnInit {
         name: 'Employee 5',
         office: 'Office 5',
         role: 'Student',
-        backgroundColor: '#8A2BE2',
+        //backgroundColor: '#8A2BE2',
+        backgroundColor: '#0000A0',
         upperManagerId: '4'
       },
       {
@@ -74,7 +75,8 @@ export class  GraphOrgTreeComponent implements OnInit {
         name: 'Employee 6',
         office: 'Office 6',
         role: 'Student',
-        backgroundColor: '#8A2BE2',
+        //backgroundColor: '#8A2BE2',
+        backgroundColor: '#0000A0',
         upperManagerId: '4'
       },
       {
@@ -113,7 +115,8 @@ export class  GraphOrgTreeComponent implements OnInit {
         target: employee.id,
         label: '',
         data: {
-          linkText: 'Manager of'
+          //linkText: 'Manager of'
+          linkText: 'Head of'
         }
       };
 
