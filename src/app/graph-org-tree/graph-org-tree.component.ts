@@ -115,7 +115,8 @@ export class  GraphOrgTreeComponent implements OnInit {
         target: employee.id,
         label: '',
         data: {
-          linkText: 'Manager of'
+          //linkText: 'Manager of'
+          linkText: 'Head of'
         }
       };
 
