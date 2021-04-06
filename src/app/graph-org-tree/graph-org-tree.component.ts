@@ -49,7 +49,7 @@ export class  GraphOrgTreeComponent implements OnInit {
         id: '3',
         name: 'Employee 3',
         office: 'Office 3',
-        role: 'Engineer',
+        role: 'Architect',
         backgroundColor: '#00FFFF',
         upperManagerId: '1'
       },
