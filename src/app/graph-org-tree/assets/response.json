@@ -30,6 +30,14 @@
         "upperManagerId": "1"
     },
     {
+        "id": "9",
+        "name": "Employee 9",
+        "office": "Office 9",
+        "role": "Engineer",
+        "backgroundColor": "#00FFFF",
+        "upperManagerId": "1"
+    },
+    {
         "id": "5",
         "name": "Employee 5",
         "office": "Office 5",
@@ -46,12 +54,12 @@
         "upperManagerId": "4"
     },
     {
-      "id": "7",
-      "name": "Employee 7",
-      "office": "Office 7",
-      "role": "Student",
-      "backgroundColor": "#8A2BE2",
-      "upperManagerId": "2"
+        "id": "7",
+        "name": "Employee 7",
+        "office": "Office 7",
+        "role": "Student",
+        "backgroundColor": "#8A2BE2",
+        "upperManagerId": "2"
     },
     {
       "id": "8",
