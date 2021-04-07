@@ -86,6 +86,14 @@ export class  GraphOrgTreeComponent implements OnInit {
         role: 'Student',
         backgroundColor: '#8A2BE2',
         upperManagerId: '2'
+      },
+      {
+        id: '8',
+        name: 'Employee 8',
+        office: 'Office 8',
+        role: 'Junior Student',
+        backgroundColor: '#8A2BE2',
+        upperManagerId: '7'
       }
     ];
   }
