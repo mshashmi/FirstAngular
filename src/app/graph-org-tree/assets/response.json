@@ -62,11 +62,19 @@
         "upperManagerId": "2"
     },
     {
-        "id": "8",
-        "name": "Employee 8",
-        "office": "Office 8",
-        "role": "Junior Student",
-        "backgroundColor": "#8A2BE2",
-        "upperManagerId": "3"
+      "id": "8",
+      "name": "Employee 8",
+      "office": "Office 8",
+      "role": "Junior Student",
+      "backgroundColor": "#8A2BE2",
+      "upperManagerId": "3"
+    },
+    {
+      "id": "9",
+      "name": "Employee 9",
+      "office": "Office 9",
+      "role": "Student",
+      "backgroundColor": "#8A2BE2",
+      "upperManagerId": "2"
     }
 ]
