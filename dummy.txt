@@ -1,5 +1,0 @@
-This is just to test force push command in git.
-Git is best.
-Github made it more interesting.
-My project is awesome!
-Thanks!
