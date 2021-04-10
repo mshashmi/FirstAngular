@@ -1,3 +1,15 @@
+## Project Functionality
+
+Project is based on the Angular CLI. Basic functionality of the project includes the employee hierarchy in a organization. 
+It represents the hierarchy is a form of tree chart. This tree chart depicts the following information -
+1. Shows all the employees in the organization.
+2. Shows the person just above and below as per organization hierarchy to a particular employee.
+3. List down three details of a individual employee that is employee name, Role, office ID.
+4. Hierarchy chart is flexible can be easily extended and modified as per the employees and organization structure.
+
+Project can be easily utilized for small organization to represent employee hierarchy.
+
+
 # FirstAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.7.
