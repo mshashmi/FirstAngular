@@ -30,14 +30,6 @@
         "upperManagerId": "1"
     },
     {
-        "id": "9",
-        "name": "Employee 9",
-        "office": "Office 9",
-        "role": "Engineer",
-        "backgroundColor": "#00FFFF",
-        "upperManagerId": "1"
-    },
-    {
         "id": "5",
         "name": "Employee 5",
         "office": "Office 5",
